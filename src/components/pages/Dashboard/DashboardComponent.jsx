@@ -86,9 +86,8 @@ export default function DashboardComponent() {
 								<div className='dropdown'>
 									<a
 										className='dropdown-toggle text-reset'
-										href='#'
+										href='#!'
 										data-bs-toggle='dropdown'
-										aria-haspopup='true'
 										aria-expanded='false'>
 										<span className='fw-semibold'>Sort By:</span>{' '}
 										<span className='text-muted'>
@@ -97,16 +96,16 @@ export default function DashboardComponent() {
 										</span>
 									</a>
 									<div className='dropdown-menu dropdown-menu-end'>
-										<a className='dropdown-item' href='#'>
+										<a className='dropdown-item' href='#!'>
 											Yearly
 										</a>
-										<a className='dropdown-item' href='#'>
+										<a className='dropdown-item' href='#!'>
 											Monthly
 										</a>
-										<a className='dropdown-item' href='#'>
+										<a className='dropdown-item' href='#!'>
 											Weekly
 										</a>
-										<a className='dropdown-item' href='#'>
+										<a className='dropdown-item' href='#!'>
 											Today
 										</a>
 									</div>
@@ -159,9 +158,8 @@ export default function DashboardComponent() {
 									<div className='dropdown d-inline'>
 										<a
 											className='dropdown-toggle text-reset mb-3'
-											href='#'
+											href='#!'
 											data-bs-toggle='dropdown'
-											aria-haspopup='true'
 											aria-expanded='false'>
 											<span className='fw-semibold'>Report By:</span>{' '}
 											<span className='text-muted'>
@@ -170,16 +168,16 @@ export default function DashboardComponent() {
 											</span>
 										</a>
 										<div className='dropdown-menu dropdown-menu-end'>
-											<a className='dropdown-item' href='#'>
+											<a className='dropdown-item' href='#!'>
 												Yearly
 											</a>
-											<a className='dropdown-item' href='#'>
+											<a className='dropdown-item' href='#!'>
 												Monthly
 											</a>
-											<a className='dropdown-item' href='#'>
+											<a className='dropdown-item' href='#!'>
 												Weekly
 											</a>
-											<a className='dropdown-item' href='#'>
+											<a className='dropdown-item' href='#!'>
 												Today
 											</a>
 										</div>
@@ -251,7 +249,7 @@ export default function DashboardComponent() {
 													</div>
 													<div>
 														<h5 className='font-size-14 text-truncate mb-0'>
-															<a href='#' className='text-reset'>
+															<a href='#!' className='text-reset'>
 																Alex Fox
 															</a>
 														</h5>
@@ -263,7 +261,7 @@ export default function DashboardComponent() {
 											<td>
 												<div className='dropdown'>
 													<a
-														href='#'
+														href='#!'
 														className='dropdown-toggle card-drop'
 														data-bs-toggle='dropdown'
 														aria-expanded='false'>
@@ -271,13 +269,13 @@ export default function DashboardComponent() {
 													</a>
 													<ul className='dropdown-menu dropdown-menu-end'>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-pencil font-size-16 text-success me-1' />
 																Edit
 															</a>
 														</li>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-trash-can font-size-16 text-danger me-1' />
 																Delete
 															</a>
@@ -324,7 +322,7 @@ export default function DashboardComponent() {
 													</div>
 													<div>
 														<h5 className='font-size-14 text-truncate mb-0'>
-															<a href='#' className='text-reset'>
+															<a href='#!' className='text-reset'>
 																Joya Calvert
 															</a>
 														</h5>
@@ -338,7 +336,7 @@ export default function DashboardComponent() {
 											<td>
 												<div className='dropdown'>
 													<a
-														href='#'
+														href='#!'
 														className='dropdown-toggle card-drop'
 														data-bs-toggle='dropdown'
 														aria-expanded='false'>
@@ -346,13 +344,13 @@ export default function DashboardComponent() {
 													</a>
 													<ul className='dropdown-menu dropdown-menu-end'>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-pencil font-size-16 text-success me-1' />
 																Edit
 															</a>
 														</li>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-trash-can font-size-16 text-danger me-1' />
 																Delete
 															</a>
@@ -399,7 +397,7 @@ export default function DashboardComponent() {
 													</div>
 													<div>
 														<h5 className='font-size-14 text-truncate mb-0'>
-															<a href='#' className='text-reset'>
+															<a href='#!' className='text-reset'>
 																Gracyn Make
 															</a>
 														</h5>
@@ -411,7 +409,7 @@ export default function DashboardComponent() {
 											<td>
 												<div className='dropdown'>
 													<a
-														href='#'
+														href='#!'
 														className='dropdown-toggle card-drop'
 														data-bs-toggle='dropdown'
 														aria-expanded='false'>
@@ -419,13 +417,13 @@ export default function DashboardComponent() {
 													</a>
 													<ul className='dropdown-menu dropdown-menu-end'>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-pencil font-size-16 text-success me-1' />
 																Edit
 															</a>
 														</li>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-trash-can font-size-16 text-danger me-1' />
 																Delete
 															</a>
@@ -472,7 +470,7 @@ export default function DashboardComponent() {
 													</div>
 													<div>
 														<h5 className='font-size-14 text-truncate mb-0'>
-															<a href='#' className='text-reset'>
+															<a href='#!' className='text-reset'>
 																Monroe Mock
 															</a>
 														</h5>
@@ -484,7 +482,7 @@ export default function DashboardComponent() {
 											<td>
 												<div className='dropdown'>
 													<a
-														href='#'
+														href='#!'
 														className='dropdown-toggle card-drop'
 														data-bs-toggle='dropdown'
 														aria-expanded='false'>
@@ -492,13 +490,13 @@ export default function DashboardComponent() {
 													</a>
 													<ul className='dropdown-menu dropdown-menu-end'>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-pencil font-size-16 text-success me-1' />
 																Edit
 															</a>
 														</li>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-trash-can font-size-16 text-danger me-1' />
 																Delete
 															</a>
@@ -543,7 +541,7 @@ export default function DashboardComponent() {
 													</div>
 													<div>
 														<h5 className='font-size-14 text-truncate mb-0'>
-															<a href='#' className='text-reset'>
+															<a href='#!' className='text-reset'>
 																Lauren Bond
 															</a>
 														</h5>
@@ -555,7 +553,7 @@ export default function DashboardComponent() {
 											<td>
 												<div className='dropdown'>
 													<a
-														href='#'
+														href='#!'
 														className='dropdown-toggle card-drop'
 														data-bs-toggle='dropdown'
 														aria-expanded='false'>
@@ -563,13 +561,13 @@ export default function DashboardComponent() {
 													</a>
 													<ul className='dropdown-menu dropdown-menu-end'>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-pencil font-size-16 text-success me-1' />
 																Edit
 															</a>
 														</li>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-trash-can font-size-16 text-danger me-1' />
 																Delete
 															</a>
@@ -616,7 +614,7 @@ export default function DashboardComponent() {
 													</div>
 													<div>
 														<h5 className='font-size-14 text-truncate mb-0'>
-															<a href='#' className='text-reset'>
+															<a href='#!' className='text-reset'>
 																Ricardo Schaefer
 															</a>{' '}
 														</h5>
@@ -628,7 +626,7 @@ export default function DashboardComponent() {
 											<td>
 												<div className='dropdown'>
 													<a
-														href='#'
+														href='#!'
 														className='dropdown-toggle card-drop'
 														data-bs-toggle='dropdown'
 														aria-expanded='false'>
@@ -636,13 +634,13 @@ export default function DashboardComponent() {
 													</a>
 													<ul className='dropdown-menu dropdown-menu-end'>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-pencil font-size-16 text-success me-1' />
 																Edit
 															</a>
 														</li>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-trash-can font-size-16 text-danger me-1' />
 																Delete
 															</a>
@@ -689,7 +687,7 @@ export default function DashboardComponent() {
 													</div>
 													<div>
 														<h5 className='font-size-14 text-truncate mb-0'>
-															<a href='#' className='text-reset'>
+															<a href='#!' className='text-reset'>
 																Arvi Hasan
 															</a>{' '}
 														</h5>
@@ -701,7 +699,7 @@ export default function DashboardComponent() {
 											<td>
 												<div className='dropdown'>
 													<a
-														href='#'
+														href='#!'
 														className='dropdown-toggle card-drop'
 														data-bs-toggle='dropdown'
 														aria-expanded='false'>
@@ -709,13 +707,13 @@ export default function DashboardComponent() {
 													</a>
 													<ul className='dropdown-menu dropdown-menu-end'>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-pencil font-size-16 text-success me-1' />
 																Edit
 															</a>
 														</li>
 														<li>
-															<a href='#' className='dropdown-item'>
+															<a href='#!' className='dropdown-item'>
 																<i className='mdi mdi-trash-can font-size-16 text-danger me-1' />
 																Delete
 															</a>
